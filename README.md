@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZerozeroAndre&theme=dark)](https://git.io/streak-stats)
