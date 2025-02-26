@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerozeroAndre&show_icons=true&theme=radical)
+[![Andre's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZerozeroAndre)](https://github.com/anuraghazra/github-readme-stats)
